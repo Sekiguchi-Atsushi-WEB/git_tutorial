@@ -1,0 +1,3 @@
+# .gitignoreを設定
+#secret.txtをgit管理から除外
+secret.txt
